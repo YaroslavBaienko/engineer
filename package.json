@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Yaroslav Baienko DevOps, Python, Go",
   "source": "src/index.html",
-  "homepage": "https://YaroslavBaienko.github.io/my-portfolio-site",
+  "homepage": "https://YaroslavBaienko.github.io/engineer,
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://YaroslavBaienko.github.io/my-portfolio-site'",
+    "build-gh": "parcel build --public-url 'https://YaroslavBaienko.github.io/engineer'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
