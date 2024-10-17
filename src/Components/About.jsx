@@ -24,20 +24,34 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a DevOps Engineer with expertise in Python and Go, specializing in microservices development and cloud infrastructure management.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Agile methodology",
+  "Docker",
+  "Virtualization",
+  "Kubernetes",
+  "AWS",
+  "Terraform",
+  "Ansible",
+  "GitHub Actions",
+  "GitLab CI",
+  "Jenkins",
+  "Ubuntu",
+  "RedHat Linux",
+  "Bash/Shell scripting",
+  "Prometheus",
+  "Grafana",
+  "Elastic Stack",
+  "Python (Flask, Django, FastAPI)",
+  "Go (Microservices)",
+  "RESTful APIs"
 ];
+
 
 /**
  * Use this to give more information about what you are passionate about,
@@ -45,7 +59,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Expertise in Python and Go, specializing in microservices development and cloud infrastructure management. Skilled in virtualization, cloud platforms, CI/CD pipelines automation, and strong database management skills. Proficient in Linux administration and system monitoring, with strong problem-solving abilities and Agile project management experience.";
 
 const About = () => {
   return (
